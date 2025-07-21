@@ -9,7 +9,7 @@ _STATUS_: COMPLETED
 - What is VM (Virtual Machine)
 - ```
   dirb https://target.com
- (Enumerates hidden directories by brute-forcing common paths using a predefined wordlist.)
+ (List hidden directories by brute-forcing common paths using a predefined wordlist.)
 >*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interessed.
 
 ## ^2nd ROOM-Defensive Security Intro- [21 july 2025]
