@@ -1,7 +1,7 @@
 # TryHackMe-Progress
 My daily TryHackMe room progress, notes and findings. 
 
-**^1st *ROOM***-Offensing security Intro- 
+**^1st *ROOM*** -Offensing security Intro- 
 **STATUS**: COMPLETED
 
 **COMMANDS / CONCEPTS LEARNED**
