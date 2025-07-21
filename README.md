@@ -14,5 +14,10 @@ My daily TryHackMe room progress, notes and findings.
 **STATUS**: COMPLETED
 
 **COMMANDS / CONCEPTS LEARNED**
-- Defensive Security (
+- Defensive Security (Preventing and Detecting intrusion, when they occur and responding properly) [BLUE TEAM]
+- **SOC** (Security Operation Center)
+  Team of cybersecurity professionals that monitors the network and its systems to detect harmful cybersecurity events. *Vulnerabilities*, *Policy Violations*, *Unauthorized Activity*, *Network Intrusion* are the main point where a SOC Analyst give more attention.
+- **Threat Intelligence**
+  Gathers information to help the company better prepare against potential adversaries. Every Target (Company) have different Threat (Banks, Telecomunications, Archives, etc.).
+- **DFIR** (Digital Forensics and Incident Response) --> **Malware Analysis** 
 
