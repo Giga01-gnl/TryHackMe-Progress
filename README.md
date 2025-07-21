@@ -16,12 +16,12 @@ My daily TryHackMe room progress, notes and findings.
 **COMMANDS / CONCEPTS LEARNED**
 - Defensive Security (Preventing and Detecting intrusion, when they occur and responding properly) [BLUE TEAM]
   
-- **SOC** (Security Operation Center)
+- [**SOC**] (Security Operation Center)
   Team of cybersecurity professionals that monitors the network and its systems to detect harmful cybersecurity events. *Vulnerabilities*, *Policy Violations*, *Unauthorized Activity*, *Network Intrusion* are the main point where a SOC Analyst give more attention.
 - **Threat Intelligence**
   Gathers information to help the company better prepare against potential adversaries. Every Target (Company) have different Threat (Banks, Telecomunications, Archives, etc.). Intelligence needs data. Data has to be collected, processed, and analyzed. Data is            collected  from local sources such as network logs and public sources such as forums. Data processing arranges it into a format suitable for analysis. The analysis phase seeks to find more information about the attackers and their motives; moreover, it aims to create   a list of recommendations and actionable steps.
 
-- **DFIR** (Digital Forensics and Incident Response)
+- [**DFIR**] (Digital Forensics and Incident Response)
   Forensics is the application of science to investigate crimes and establish facts. The focus of digital forensics shifts to analyzing evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of      unauthorized content. Consequently, digital forensics will focus on different areas, such as:
 + **_File System_**: Analyzing a digital forensics image (low-level copy) of a system’s storage reveals much information, such as installed programs, created files, partially overwritten files, and deleted files.
 + **_System memory_**: If the attacker runs their malicious program in memory without saving it to the disk, taking a forensic image (low-level copy) of the system memory is the best way to analyze its contents and learn about the attack.
@@ -37,9 +37,11 @@ The four major phases of the incident response process are:
 -**_Containment, Eradication, and Recovery_**: Once an incident is detected, it is crucial to stop it from affecting other systems, eliminate it, and recover the affected systems. For instance, when we notice that a system is infected with a computer virus, we would like stop (contain) the virus from spreading to other systems, clean (eradicate) the virus, and ensure proper system recovery.
 -**_Post-Incident Activity_**: After a successful recovery, a report is produced, and the lesson learned is shared to prevent similar future incidents.
 
-- **Malware Analysis**
+- [**Malware Analysis**]
   Malware stands for 'malicious software'. _Software_ refers to programs, documents, and files you can **save on a disk or send over the network**. Malware includes many types, such as:
-- A *_virus_* is a piece of code (part of a program) that attaches itself to a program. It is designed to spread from one computer to another and works by altering, overwriting, and deleting files once it infects a computer. The result ranges from the computer becoming slow to unusable.
+- A *_virus_* is a piece of code (part of a program) that attaches itself to a program. It is designed to spread from one computer to another and works by altering, overwriting, and deleting files once it infects a computer. The result ranges from the computer becoming   slow to unusable.
+  
 - *_Trojan Horse_* is a program that shows one desirable function but hides a malicious function underneath. For example, a victim might download a video player from a shady website that gives the attacker complete control over their system.
+  
 - *_Ransomware_* is a malicious program that encrypts the user’s files. Encryption makes the files unreadable without knowing the encryption password. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
 
