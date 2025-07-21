@@ -7,8 +7,10 @@ _STATUS_: COMPLETED
 ### COMMANDS / CONCEPTS LEARNED**
 - Offensive Security (ethical hacking for the analyzation of weak points and resolution) [RED TEAM]
 - What is VM (Virtual Machine)
-- ```dirb https://target.com (for research hidden pages (URL) in the web-site with brute-force)
->*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interessing.
+- ```
+  dirb https://target.com
+ (for research hidden pages (URL) in the web-site with brute-force)
+>*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interessed.
 
 ## ^2nd ROOM-Defensive Security Intro- [21 jun 2025]
 _STATUS_: COMPLETED
