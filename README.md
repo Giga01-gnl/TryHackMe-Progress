@@ -9,7 +9,7 @@ _STATUS_: COMPLETED
 - What is VM (Virtual Machine)
 - ```
   dirb https://target.com
- (for research hidden pages (URL) in the web-site with brute-force)
+ (for research hidden pages (URL) in the directory with brute-force)
 >*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interessed.
 
 ## ^2nd ROOM-Defensive Security Intro- [21 jun 2025]
