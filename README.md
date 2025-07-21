@@ -10,7 +10,7 @@ _STATUS_: COMPLETED
 - ```
   dirb https://target.com
  (List hidden directories by brute-forcing common paths using a predefined wordlist.)
->*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interessed.
+>*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interested.
 
 ## ^2nd ROOM-Defensive Security Intro- [21 july 2025]
 _STATUS_: COMPLETED
