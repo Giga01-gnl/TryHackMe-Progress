@@ -11,7 +11,7 @@ _STATUS_: COMPLETED
 ### COMMANDS
 - ```bash
   dirb https://target.com
- (List hidden directories (URL) by brute-forcing common paths using a predefined wordlist.)
+ [List hidden directories (URL) by brute-forcing common paths using a predefined wordlist.]
  
 >*Notes:* I didn’t know what cybersecurity was, but this guide opened a new world for me. I'm very interested.
 
