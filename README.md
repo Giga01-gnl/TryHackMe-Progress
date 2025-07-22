@@ -1,21 +1,27 @@
-# CyberSecurity Journal
+# Cybersecurity Journey – My TryHackMe Progress
 My daily TryHackMe room progress, notes and findings. 
 
-## ^1st ROOM -Offensing security Intro- [21 july 2025] 
+## 1.ROOM - Offensing Security Intro - [21 july 2025] 
 _STATUS_: COMPLETED
 
-### COMMANDS / CONCEPTS LEARNED**
+### CONCEPTS LEARNED
 - Offensive Security (ethical hacking for the analyzation of weak points and resolution) [RED TEAM]
-- What is VM (Virtual Machine)
+- What is VM (Virtual Machine, software that emulates a physical computer within a host computer.)
+
+### COMMANDS
 - ```
   dirb https://target.com
- (List hidden directories by brute-forcing common paths using a predefined wordlist.)
->*Notes*: I didn't know what the cyber security was, but this guide open a world for me. Im very interested.
+ (List hidden directories (URL) by brute-forcing common paths using a predefined wordlist.)
+ 
+>*Notes:* I didn't know what the cyber security was, but this guide open a world for me. Im very interested.
 
-## ^2nd ROOM-Defensive Security Intro- [21 july 2025]
+
+------------------------------------------------------------------------------------------------------------------
+
+## 2.ROOM - Defensive Security Intro - [21 july 2025]
 _STATUS_: COMPLETED
 
-### COMMANDS / CONCEPTS LEARNED**
+### CONCEPTS LEARNED**
 - Defensive Security (Preventing and Detecting intrusion, when they occur and responding properly) [BLUE TEAM]
   
 - #### [SOC] (Security Operation Center)
@@ -24,7 +30,7 @@ _STATUS_: COMPLETED
   Gathers information to help the company better prepare against potential adversaries. Every Target (Company) have different Threat (Banks, Telecomunications, Archives, etc.). Intelligence needs data. Data has to be collected, processed, and analyzed. Data is            collected  from local sources such as network logs and public sources such as forums. 
 
 - #### [DFIR] (Digital Forensics and Incident Response)
-  Investigate crimes and establish facts. The focus of digital forensics shifts to analyzing evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content. This focused on different areas:
+  Investigate crimes and establish facts. The analysis evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content. This focused on different areas:
   
 **_File System_**
 
