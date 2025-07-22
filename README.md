@@ -52,9 +52,11 @@ The four major phases of the incident response process are:
 - #### Malware Analysis
   Malware stands for 'malicious software'. _Software_ refers to programs, documents, and files you can **save on a disk or send over the network**. Malware includes many types, such as:
   
-. A _virus_ is a piece of code (part of a program) that attaches itself to a program. It is designed to spread from one computer to another and works by altering, overwriting, and deleting files once it infects a computer. The result ranges from the computer becoming     slow to unusable.
+. A _virus_ is a piece of code (part of a program). A program that replicates and spreads by infecting other files or programs.
 
-. _Trojan Horse_ is a program that shows one desirable function but hides a malicious function underneath. For example, a victim might download a video player from a shady website that gives the attacker complete control over their system.
+. _Trojan Horse_ is a program that shows one desirable function but hides a malicious function underneath.
 
-. _Ransomware_ is a malicious program that encrypts the user’s files. Encryption makes the files unreadable without knowing the encryption password. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
+. _Ransomware_ is a malicious program that encrypts the user’s files. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
+
+>*Notes:* the virus replicates, the trojan deceives.
 
