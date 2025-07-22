@@ -5,7 +5,7 @@ My daily TryHackMe room progress, notes and findings.
 _STATUS_: COMPLETED
 
 ### CONCEPTS LEARNED
-- Offensive Security (ethical hacking for the analyzation of weak points and resolution) [RED TEAM]
+- Offensive Security (ethical hacking for the analysis of weak points and remedation) [RED TEAM]
 - What is VM (Virtual Machine, software that emulates a physical computer within a host computer.)
 
 ### COMMANDS
@@ -25,12 +25,12 @@ _STATUS_: COMPLETED
 - Defensive Security (Preventing and Detecting intrusion, when they occur and responding properly) [BLUE TEAM]
   
   #### [SOC] (Security Operation Center)
-  A team of cybersecurity professionals that monitors the network and its systems to detect harmful cybersecurity events. *Vulnerabilities*, *Policy Violations*, *Unauthorized Activity*, *Network Intrusion* are the main point where a SOC Analyst give more attention.
+  A team of cybersecurity professionals that monitors the network and its systems to detect harmful cybersecurity events. *Vulnerabilities*, *Policy Violations*, *Unauthorized Activity*, *Network Intrusion* are the main point where a SOC Analyst pay more attention.
 - **Threat Intelligence**
-  Gathers information to help the company better prepare against potential adversaries. Every Target (Company) has different Threat (Banks, Telecomunications, Archives, etc.). Intelligence needs data. Data has to be collected, processed, and analyzed. Data is collected  from local sources such as network logs and public sources such as forums. 
+  Gathers information to help the company better prepare against potential adversaries. Every Target (Company) has different Threat (Banks, Telecomunications, Archives, etc.). Intelligence needs data. Data has to be collected, processed, and analyzed. Data is collected from local sources such as network logs and public sources such as forums. 
 
   #### [DFIR] (Digital Forensics and Incident Response)
-  Investigate crimes and establish facts. It analyzes evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content. This focused on different areas:
+  Investigate crimes and establish facts. It analyzes evidence of an attack and its perpetrators and other areas such as intellectual property theft, cyber espionage, and possession of unauthorized content. It focused on different areas:
   
 **_File System_**
 
@@ -40,7 +40,7 @@ _STATUS_: COMPLETED
 
 **_Network logs_**
   
->*Notes*: [Low-level copy] is the copy of the hidden files in the sistem whitout damage the original, useful when a machine or system is damaged. While the [High-level copy] is the copy of the visible files in the system.
+>**Notes:** [Low-level copy] is the copy of the hidden files in the sistem whitout damaging the original, useful when a machine or system is damaged. While the [High-level copy] is the copy of the visible files in the system.
 
 ### Incident Response Phases
 
@@ -58,5 +58,5 @@ _STATUS_: COMPLETED
 
  _Ransomware_ is a malicious program that encrypts the user’s files. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
 
->*Notes:* the virus replicates, the trojan deceives.
+>**Notes:** A virus spreads by replication. A trojan deceives the user by hiding its real purpose.
 
